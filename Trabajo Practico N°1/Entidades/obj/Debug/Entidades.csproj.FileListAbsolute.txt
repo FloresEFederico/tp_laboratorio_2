@@ -1,0 +1,14 @@
+C:\Users\fedef\Desktop\Entidades\bin\Debug\Entidades.exe.config
+C:\Users\fedef\Desktop\Entidades\bin\Debug\Entidades.exe
+C:\Users\fedef\Desktop\Entidades\bin\Debug\Entidades.pdb
+C:\Users\fedef\Desktop\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\fedef\Desktop\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\fedef\Desktop\Entidades\obj\Debug\Entidades.exe
+C:\Users\fedef\Desktop\Entidades\obj\Debug\Entidades.pdb
+C:\Users\fedef\Desktop\Trabajo Practico N°1\Entidades\bin\Debug\Entidades.exe.config
+C:\Users\fedef\Desktop\Trabajo Practico N°1\Entidades\bin\Debug\Entidades.exe
+C:\Users\fedef\Desktop\Trabajo Practico N°1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\fedef\Desktop\Trabajo Practico N°1\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\fedef\Desktop\Trabajo Practico N°1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\fedef\Desktop\Trabajo Practico N°1\Entidades\obj\Debug\Entidades.exe
+C:\Users\fedef\Desktop\Trabajo Practico N°1\Entidades\obj\Debug\Entidades.pdb

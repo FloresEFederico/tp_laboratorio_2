@@ -1,0 +1,28 @@
+C:\Users\fedef\Desktop\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\fedef\Desktop\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\fedef\Desktop\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\fedef\Desktop\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\fedef\Desktop\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Users\fedef\Desktop\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\fedef\Desktop\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\fedef\Desktop\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\fedef\Desktop\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\fedef\Desktop\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\fedef\Desktop\MiCalculadora\bin\Debug\Entidades.exe
+C:\Users\fedef\Desktop\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\fedef\Desktop\MiCalculadora\bin\Debug\Entidades.exe.config
+C:\Users\fedef\Desktop\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\fedef\Desktop\Trabajo Practico N°1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\fedef\Desktop\Trabajo Practico N°1\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\fedef\Desktop\Trabajo Practico N°1\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\fedef\Desktop\Trabajo Practico N°1\MiCalculadora\bin\Debug\Entidades.exe
+C:\Users\fedef\Desktop\Trabajo Practico N°1\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\fedef\Desktop\Trabajo Practico N°1\MiCalculadora\bin\Debug\Entidades.exe.config
+C:\Users\fedef\Desktop\Trabajo Practico N°1\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\fedef\Desktop\Trabajo Practico N°1\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Users\fedef\Desktop\Trabajo Practico N°1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\fedef\Desktop\Trabajo Practico N°1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\fedef\Desktop\Trabajo Practico N°1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\fedef\Desktop\Trabajo Practico N°1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\fedef\Desktop\Trabajo Practico N°1\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\fedef\Desktop\Trabajo Practico N°1\MiCalculadora\obj\Debug\MiCalculadora.pdb
