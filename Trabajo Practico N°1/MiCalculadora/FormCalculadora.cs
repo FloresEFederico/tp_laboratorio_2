@@ -21,7 +21,7 @@ namespace MiCalculadora
 
         private void btnCerrar_Click(object sender, EventArgs e)
         {
-            this.Close();
+            this.Dispose();
         }
 
         private void btnConvertirABinario_Click(object sender, EventArgs e)
@@ -67,20 +67,45 @@ namespace MiCalculadora
             lblResultado.Text = auxResult.ToString();   
         }
 
+        /// <summary>
+        /// Hace la operacion entre dos numeros.
+        /// </summary>
+        /// <param name="numero1"></param>
+        /// <param name="numero2"></param>
+        /// <param name="operador"></param>
+        /// <returns></returns> resultado de la operacion.
         private static double Operar(string numero1,string numero2,string operador)
         {
            return Calculadora.Operar((Numero)numero1,(Numero)numero2, operador);
         }
 
+        /// <summary>
+        /// Limpia los controles del programa.
+        /// </summary>
         private void Limpiar()
         {
             this.txtNumero1.Text = string.Empty;
             this.txtNumero2.Text = string.Empty;
-            this.cmbOperador.SelectedIndex = 0;
+            this.cmbOperador.SelectedIndex = -1;
             this.cmbOperador.Text = string.Empty;
             
             this.lblResultado.Text = "0";
         }
 
+        private void txtNumero1_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if((e.KeyChar <= '0' || e.KeyChar >= '9') && e.KeyChar != 8)
+            {
+                e.Handled = true;
+            }
+        }
+
+        private void txtNumero2_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if ((e.KeyChar <= '0' || e.KeyChar >= '9') && e.KeyChar != 8)
+            {
+                e.Handled = true;
+            }
+        }
     }
 }

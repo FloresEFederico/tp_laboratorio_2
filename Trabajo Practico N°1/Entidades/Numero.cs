@@ -42,7 +42,7 @@ namespace Entidades
         private static double ValidarNumero(string strNumero)
         {
             double auxNum;
-            if(!double.TryParse(strNumero, out auxNum))
+            if(!Double.TryParse(strNumero, out auxNum))
             {
                 auxNum = 0;
             }
