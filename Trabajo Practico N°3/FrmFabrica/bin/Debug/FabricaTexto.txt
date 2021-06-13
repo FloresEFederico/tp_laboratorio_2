@@ -1,0 +1,63 @@
+FABRICA:Sueños Felices
+VIDEO JUEGO:
+Nombre: Sonic & Patoruzú.
+Para mayores de: 6 años.
+Descripcion: 
+Es el juego Sonic & Knuckles, pero modeado para que se reemplace a Knuckles con Patoruzú. (No poner esto en la descripción del juego)..
+Genero del juego:Plataformas
+Formato: Digital.
+Duracion: 6Hrs.
+El juego pesa 20GB. Incluye artwork original dentro!
+No testeado!.Cantidad de bugs encontrados: 14. por favor, arreglarlos!
+Listado de plataformas:
+PC
+SmartPhone
+
+------------------------------------------
+VIDEO JUEGO:
+Nombre: Need for Slow.
+Para mayores de: 16 años.
+Descripcion: 
+Ponete en el lugar de un anciano que intenta escapar de las garras del paso prematuro del tiempo. Juego terrorifico! .
+Genero del juego:Terror
+Formato: Fisico.
+Duracion: 7Hrs.
+El juego pesa 14GB. No incluye artwork digital.
+No testeado!.Cantidad de bugs encontrados: 14. por favor, arreglarlos!
+Listado de plataformas:
+Playstation
+
+------------------------------------------
+JUEGO DE MESA:
+Nombre: Mascota 2.
+Para mayores de: 8 años.
+Descripcion: 
+Secuela al juegazo de mesa Mascota..
+Objetivo: El primero en juntar las 5 cartas para hacer al perro feliz, es el ganador.
+Elementos:
+Dados
+Cartas
+
+Tablero: No.
+Dimensiones: ancho:6 x longitud:8 x alto: 4 centímetros.No incluye tablero.
+
+
+------------------------------------------
+JUEGO DE MESA:
+Nombre: SpaceShip.
+Para mayores de: 13 años.
+Descripcion: 
+Es tipo la batalla naval pero con naves y mucho mas dinamico.
+Objetivo: Destruir las naves enemigas de tus amigos
+Elementos:
+Piezas
+Dados
+Cartas
+
+Tablero: Si.
+Dimensiones: ancho:11 x longitud:14 x alto: 6 centímetros.Incluye tablero.
+
+
+------------------------------------------
+Espacio disponible: 6
+

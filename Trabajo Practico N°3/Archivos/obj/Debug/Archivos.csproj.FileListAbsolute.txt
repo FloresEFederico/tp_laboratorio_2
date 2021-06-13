@@ -1,0 +1,11 @@
+C:\Users\fedef\Desktop\UTN Facultad\Programacion y Laboratorio ll\Trabajos Practicos\TP N°3 b\Archivos\bin\Debug\Archivos.dll
+C:\Users\fedef\Desktop\UTN Facultad\Programacion y Laboratorio ll\Trabajos Practicos\TP N°3 b\Archivos\bin\Debug\Archivos.pdb
+C:\Users\fedef\Desktop\UTN Facultad\Programacion y Laboratorio ll\Trabajos Practicos\TP N°3 b\Archivos\bin\Debug\Entidades.dll
+C:\Users\fedef\Desktop\UTN Facultad\Programacion y Laboratorio ll\Trabajos Practicos\TP N°3 b\Archivos\bin\Debug\Entidades.pdb
+C:\Users\fedef\Desktop\UTN Facultad\Programacion y Laboratorio ll\Trabajos Practicos\TP N°3 b\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\fedef\Desktop\UTN Facultad\Programacion y Laboratorio ll\Trabajos Practicos\TP N°3 b\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\fedef\Desktop\UTN Facultad\Programacion y Laboratorio ll\Trabajos Practicos\TP N°3 b\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+C:\Users\fedef\Desktop\UTN Facultad\Programacion y Laboratorio ll\Trabajos Practicos\TP N°3 b\Archivos\obj\Debug\Archivos.dll
+C:\Users\fedef\Desktop\UTN Facultad\Programacion y Laboratorio ll\Trabajos Practicos\TP N°3 b\Archivos\obj\Debug\Archivos.pdb
+C:\Users\fedef\Desktop\UTN Facultad\Programacion y Laboratorio ll\Trabajos Practicos\TP N°3 b\Archivos\bin\Debug\Excepciones.dll
+C:\Users\fedef\Desktop\UTN Facultad\Programacion y Laboratorio ll\Trabajos Practicos\TP N°3 b\Archivos\bin\Debug\Excepciones.pdb

@@ -1,0 +1,9 @@
+C:\Users\fedef\Desktop\UTN Facultad\Programacion y Laboratorio ll\Trabajos Practicos\TP N°3 b\Entidades\bin\Debug\Entidades.dll
+C:\Users\fedef\Desktop\UTN Facultad\Programacion y Laboratorio ll\Trabajos Practicos\TP N°3 b\Entidades\bin\Debug\Entidades.pdb
+C:\Users\fedef\Desktop\UTN Facultad\Programacion y Laboratorio ll\Trabajos Practicos\TP N°3 b\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\fedef\Desktop\UTN Facultad\Programacion y Laboratorio ll\Trabajos Practicos\TP N°3 b\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\fedef\Desktop\UTN Facultad\Programacion y Laboratorio ll\Trabajos Practicos\TP N°3 b\Entidades\obj\Debug\Entidades.dll
+C:\Users\fedef\Desktop\UTN Facultad\Programacion y Laboratorio ll\Trabajos Practicos\TP N°3 b\Entidades\obj\Debug\Entidades.pdb
+C:\Users\fedef\Desktop\UTN Facultad\Programacion y Laboratorio ll\Trabajos Practicos\TP N°3 b\Entidades\bin\Debug\Excepciones.dll
+C:\Users\fedef\Desktop\UTN Facultad\Programacion y Laboratorio ll\Trabajos Practicos\TP N°3 b\Entidades\bin\Debug\Excepciones.pdb
+C:\Users\fedef\Desktop\UTN Facultad\Programacion y Laboratorio ll\Trabajos Practicos\TP N°3 b\Entidades\obj\Debug\Entidades.csproj.CopyComplete

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FabricaOfProducto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Nombre>Sueños Felices</Nombre>
+  <JuegosFabricados>
+    <Producto xsi:type="VideoJuego">
+      <Nombre>Sonic &amp; Patoruzú</Nombre>
+      <ClasificacionPorEdad>6</ClasificacionPorEdad>
+      <Descripcion>Es el juego Sonic &amp; Knuckles, pero modeado para que se reemplace a Knuckles con Patoruzú. (No poner esto en la descripción del juego).</Descripcion>
+      <Formato>Digital</Formato>
+      <Tipo>Plataformas</Tipo>
+      <Plataformas>
+        <EPlataforma>PC</EPlataforma>
+        <EPlataforma>SmartPhone</EPlataforma>
+      </Plataformas>
+      <Duracion>6</Duracion>
+      <BugsDeFabrica>14</BugsDeFabrica>
+      <Testeado>false</Testeado>
+    </Producto>
+    <Producto xsi:type="VideoJuego">
+      <Nombre>Need for Slow</Nombre>
+      <ClasificacionPorEdad>16</ClasificacionPorEdad>
+      <Descripcion>Ponete en el lugar de un anciano que intenta escapar de las garras del paso prematuro del tiempo. Juego terrorifico! </Descripcion>
+      <Formato>Fisico</Formato>
+      <Tipo>Terror</Tipo>
+      <Plataformas>
+        <EPlataforma>Playstation</EPlataforma>
+      </Plataformas>
+      <Duracion>7</Duracion>
+      <BugsDeFabrica>14</BugsDeFabrica>
+      <Testeado>false</Testeado>
+    </Producto>
+    <Producto xsi:type="JuegoDeMesa">
+      <Nombre>Mascota 2</Nombre>
+      <ClasificacionPorEdad>8</ClasificacionPorEdad>
+      <Descripcion>Secuela al juegazo de mesa Mascota.</Descripcion>
+      <Elementos>
+        <EElementos>Dados</EElementos>
+        <EElementos>Cartas</EElementos>
+      </Elementos>
+      <Tablero>false</Tablero>
+      <Objetivo>El primero en juntar las 5 cartas para hacer al perro feliz, es el ganador.</Objetivo>
+    </Producto>
+    <Producto xsi:type="JuegoDeMesa">
+      <Nombre>SpaceShip</Nombre>
+      <ClasificacionPorEdad>13</ClasificacionPorEdad>
+      <Descripcion>Es tipo la batalla naval pero con naves y mucho mas dinamico</Descripcion>
+      <Elementos>
+        <EElementos>Piezas</EElementos>
+        <EElementos>Dados</EElementos>
+        <EElementos>Cartas</EElementos>
+      </Elementos>
+      <Tablero>true</Tablero>
+      <Objetivo>Destruir las naves enemigas de tus amigos</Objetivo>
+    </Producto>
+  </JuegosFabricados>
+  <EspacioLibre>6</EspacioLibre>
+</FabricaOfProducto>

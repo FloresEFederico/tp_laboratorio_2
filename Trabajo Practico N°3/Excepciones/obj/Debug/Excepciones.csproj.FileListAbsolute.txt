@@ -1,0 +1,6 @@
+C:\Users\fedef\Desktop\UTN Facultad\Programacion y Laboratorio ll\Trabajos Practicos\TP N°3 b\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\fedef\Desktop\UTN Facultad\Programacion y Laboratorio ll\Trabajos Practicos\TP N°3 b\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\fedef\Desktop\UTN Facultad\Programacion y Laboratorio ll\Trabajos Practicos\TP N°3 b\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\fedef\Desktop\UTN Facultad\Programacion y Laboratorio ll\Trabajos Practicos\TP N°3 b\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\fedef\Desktop\UTN Facultad\Programacion y Laboratorio ll\Trabajos Practicos\TP N°3 b\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\fedef\Desktop\UTN Facultad\Programacion y Laboratorio ll\Trabajos Practicos\TP N°3 b\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
