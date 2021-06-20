@@ -79,7 +79,7 @@ namespace FrmFabrica
                 EFormato formato;
                 List<EPlataforma> plataformas = null; 
                 
-                if (this.txtNombre.Text == "" || !this.txtNombre.Text.StartsWith(""))
+                if (this.txtNombre.Text == "" || this.txtNombre.Text.StartsWith(" "))
                 {
                     throw new DatoInvalidoException("No se ha ingresado un nombre valido!");
                 }
@@ -93,7 +93,7 @@ namespace FrmFabrica
                     throw new DatoInvalidoException("No se ha ingresado una clasificacion valida!");
                 }
 
-                if(this.rtbDescripcion.Text == "" || !this.rtbDescripcion.Text.StartsWith(""))
+                if(this.rtbDescripcion.Text == "" || this.rtbDescripcion.Text.StartsWith(" "))
                 {
                     throw new DatoInvalidoException("No se ha ingresado una Descripcion valida!");
                 }
@@ -106,7 +106,6 @@ namespace FrmFabrica
                 {
                     throw new DatoInvalidoException("No se ha ingresado una duracion valida!");
                 }
-                
                 if(this.cmbTipo.SelectedValue is null || !Enum.TryParse<ETipoVideoJuego>(this.cmbTipo.SelectedValue.ToString(), out tipo))
                 {
                     throw new DatoInvalidoException("No se ha ingresado un tipo valido!");

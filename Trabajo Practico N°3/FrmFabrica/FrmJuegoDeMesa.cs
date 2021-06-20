@@ -89,7 +89,7 @@ namespace FrmFabrica
                 string strTablero = this.cmbTablero.Text;
                 List<EElementos> elementos = null;
 
-                if (this.txtNombre.Text == "" || !this.txtNombre.Text.StartsWith(""))
+                if (this.txtNombre.Text == "" || this.txtNombre.Text.StartsWith(" "))
                 {
                     throw new DatoInvalidoException("No se ha ingresado un nombre valido!");
                 }
@@ -103,7 +103,7 @@ namespace FrmFabrica
                     throw new DatoInvalidoException("No se ha ingresado una clasificacion valida!");
                 }
 
-                if (this.rtbDescripcion.Text == "" || !this.rtbDescripcion.Text.StartsWith(""))
+                if (this.rtbDescripcion.Text == "" || this.rtbDescripcion.Text.StartsWith(" "))
                 {
                     throw new DatoInvalidoException("No se ha ingresado una Descripcion valida!");
                 }
@@ -111,7 +111,7 @@ namespace FrmFabrica
                 {
                     descripcion = this.rtbDescripcion.Text;
                 }
-                if(this.rtbObjetivo.Text == "" || !this.rtbObjetivo.Text.StartsWith(""))
+                if(this.rtbObjetivo.Text == "" || this.rtbObjetivo.Text.StartsWith(" "))
                 {
                     throw new DatoInvalidoException("No se ha ingresado un objetivo valido!");
 

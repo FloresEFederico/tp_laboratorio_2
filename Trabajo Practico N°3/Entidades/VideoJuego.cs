@@ -11,9 +11,9 @@ namespace Entidades
         private ETipoVideoJuego tipo;
         private List<EPlataforma> plataformas;
         private EFormato formato;
-        int duracion;
-        int bugsDeFabrica;
-        bool testeado;
+        private int duracion;
+        private int bugsDeFabrica;
+        private bool testeado;
 
         /// <summary>
         /// Constructor VideoJuego con parametros
