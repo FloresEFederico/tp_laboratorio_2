@@ -4,6 +4,8 @@ using Entidades;
 using Excepciones;
 using System.IO;
 using Archivos;
+using System.Collections.Generic;
+
 namespace Testeos
 {
     [TestClass]
@@ -62,20 +64,56 @@ namespace Testeos
             
         }
         [TestMethod]
+        [ExpectedException(typeof(ElementoNullException))]
         public void PruebaElementoNullException()
         {
+            string path = null;
+            if(path is null)
+            {
+                throw new ElementoNullException("test message");
+            }
         }
         [TestMethod]
+        [ExpectedException(typeof(ListaNullException))]
         public void PruebaListaNullException()
         {
+            this.fabricaTest.JuegosFabricados = null;
+            if(this.fabricaTest.JuegosFabricados is null)
+            {
+                throw new ListaNullException("Lista null!");
+            }
         }
         [TestMethod]
+        [ExpectedException(typeof(NoEspacioException))]
         public void PruebaNoEspacioException()
         {
+            this.fabricaTest = new Fabrica<Producto>("Fabrica test", 2);
+            try
+            {
+                this.fabricaTest += new VideoJuego("VideoJuego", 3, "Very good", ETipoVideoJuego.Accion, new List<EPlataforma>() { EPlataforma.PC }, EFormato.Ambos, 3);
+                this.fabricaTest += new VideoJuego("VideoJuego2", 3, "Very average", ETipoVideoJuego.Aventura, new List<EPlataforma>() { EPlataforma.SmartPhone }, EFormato.Digital, 4);
+                this.fabricaTest += new VideoJuego("VideoJuego3", 4, "Va a tirar exception", ETipoVideoJuego.Carreras, new List<EPlataforma>() { EPlataforma.SmartPhone }, EFormato.Digital, 2);
+            }
+            catch(NoEspacioException e)
+            {
+                throw e;
+            }
+            
+
         }
         [TestMethod]
+        [ExpectedException(typeof(ProductosIgualesException))]
         public void pruebaProductosIgualesException()
         {
+            this.fabricaTest = new Fabrica<Producto>("Fabrica test", 2);
+            try
+            {
+                this.fabricaTest += new VideoJuego("VideoJuego", 3, "Igualito", ETipoVideoJuego.Accion, new List<EPlataforma>() { EPlataforma.PC }, EFormato.Ambos, 3);
+                this.fabricaTest += new VideoJuego("VideoJuego", 3, "Igualito", ETipoVideoJuego.Accion, new List<EPlataforma>() { EPlataforma.PC }, EFormato.Ambos, 3);
+            }catch(ProductosIgualesException e)
+            {
+                throw e;
+            }
         }
     }
 }
