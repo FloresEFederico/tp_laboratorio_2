@@ -1,0 +1,4 @@
+FABRICA:Fabrica Test
+No se ha fabricado ningun juego!
+Espacio disponible: 5
+

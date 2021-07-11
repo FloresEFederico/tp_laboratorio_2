@@ -51,6 +51,7 @@
   <ItemGroup>
     <Compile Include="JuegoDeMesaTest.cs" />
     <Compile Include="ExcepcionesTest.cs" />
+    <Compile Include="Archivos_Test.cs" />
     <Compile Include="VideoJuegoTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
