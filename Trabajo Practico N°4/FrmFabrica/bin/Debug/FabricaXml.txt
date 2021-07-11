@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FabricaOfProducto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Nombre>Sueños Felices</Nombre>
+  <JuegosFabricados>
+    <Producto xsi:type="VideoJuego">
+      <Nombre>Sonic &amp; Patoruzú</Nombre>
+      <ClasificacionPorEdad>6</ClasificacionPorEdad>
+      <Descripcion>Es el juego Sonic &amp; Knuckles, pero modeado para que se reemplace a Knuckles con Patoruzú. (No poner esto en la descripción del juego).</Descripcion>
+      <Controlado>false</Controlado>
+      <Formato>Digital</Formato>
+      <Tipo>Plataformas</Tipo>
+      <Plataformas>
+        <EPlataforma>PC</EPlataforma>
+        <EPlataforma>SmartPhone</EPlataforma>
+      </Plataformas>
+      <Duracion>6</Duracion>
+      <BugsDeFabrica>0</BugsDeFabrica>
+      <Testeado>true</Testeado>
+    </Producto>
+    <Producto xsi:type="VideoJuego">
+      <Nombre>Need for Slow</Nombre>
+      <ClasificacionPorEdad>16</ClasificacionPorEdad>
+      <Descripcion>Ponete en el lugar de un anciano que intenta escapar de las garras del paso prematuro del tiempo. Juego terrorifico! </Descripcion>
+      <Controlado>false</Controlado>
+      <Formato>Fisico</Formato>
+      <Tipo>Terror</Tipo>
+      <Plataformas>
+        <EPlataforma>Playstation</EPlataforma>
+      </Plataformas>
+      <Duracion>7</Duracion>
+      <BugsDeFabrica>14</BugsDeFabrica>
+      <Testeado>false</Testeado>
+    </Producto>
+    <Producto xsi:type="JuegoDeMesa">
+      <Nombre>Mascota 2</Nombre>
+      <ClasificacionPorEdad>8</ClasificacionPorEdad>
+      <Descripcion>Secuela al juegazo de mesa Mascota.</Descripcion>
+      <Controlado>false</Controlado>
+      <Elementos>
+        <EElementos>Dados</EElementos>
+        <EElementos>Cartas</EElementos>
+      </Elementos>
+      <Tablero>false</Tablero>
+      <Objetivo>El primero en juntar las 5 cartas para hacer al perro feliz, es el ganador.</Objetivo>
+    </Producto>
+    <Producto xsi:type="JuegoDeMesa">
+      <Nombre>SpaceShip</Nombre>
+      <ClasificacionPorEdad>13</ClasificacionPorEdad>
+      <Descripcion>Es tipo la batalla naval pero con naves y mucho mas dinamico</Descripcion>
+      <Controlado>false</Controlado>
+      <Elementos>
+        <EElementos>Piezas</EElementos>
+        <EElementos>Dados</EElementos>
+        <EElementos>Cartas</EElementos>
+      </Elementos>
+      <Tablero>true</Tablero>
+      <Objetivo>Destruir las naves enemigas de tus amigos</Objetivo>
+    </Producto>
+    <Producto xsi:type="JuegoDeMesa">
+      <Nombre>Conan O'Brien Board Game</Nombre>
+      <ClasificacionPorEdad>21</ClasificacionPorEdad>
+      <Descripcion>Juego de cartas del famoso programa de Conan O'Brien.</Descripcion>
+      <Controlado>false</Controlado>
+      <Elementos>
+        <EElementos>Piezas</EElementos>
+        <EElementos>Cartas</EElementos>
+      </Elementos>
+      <Tablero>true</Tablero>
+      <Objetivo>Sumar los suficientes puntos para hacer reir a la cabeza central del tablero.</Objetivo>
+    </Producto>
+    <Producto xsi:type="VideoJuego">
+      <Nombre>La selesión</Nombre>
+      <ClasificacionPorEdad>18</ClasificacionPorEdad>
+      <Descripcion>Ponete en el lugar de tu jugador favorito de la selección y enfrentate en una lucha a muerte contra la prensa. </Descripcion>
+      <Controlado>false</Controlado>
+      <Formato>Digital</Formato>
+      <Tipo>Accion</Tipo>
+      <Plataformas>
+        <EPlataforma>SmartPhone</EPlataforma>
+      </Plataformas>
+      <Duracion>8</Duracion>
+      <BugsDeFabrica>0</BugsDeFabrica>
+      <Testeado>true</Testeado>
+    </Producto>
+  </JuegosFabricados>
+  <EspacioLibre>4</EspacioLibre>
+</FabricaOfProducto>
