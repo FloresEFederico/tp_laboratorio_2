@@ -36,6 +36,9 @@ namespace MiCalculadora
             Limpiar();
         }
 
+        /// <summary>
+        /// Limpia los valores ingresados en los numeros y en el resultado. 
+        /// </summary>
         private void Limpiar()
         {
             this.txtNumero1.Text = string.Empty;
@@ -43,6 +46,13 @@ namespace MiCalculadora
             this.lblResultado.Text = string.Empty;
         }
 
+        /// <summary>
+        /// realiza la operacion entre dos numeros
+        /// </summary>
+        /// <param name="numero1"></param>
+        /// <param name="numero2"></param>
+        /// <param name="operador"></param>
+        /// <returns></returns> retorna el resultado de la operacion
         public static double Operar(string numero1,string numero2,string operador)
         {
             char operadorChar = operador[0];
