@@ -1,0 +1,6 @@
+C:\Users\fedef\Desktop\GITHUB\Trabajos practicos recuperatorio\TP1\Flores.Federico.2C.RTP1\Entidades\bin\Debug\Entidades.dll
+C:\Users\fedef\Desktop\GITHUB\Trabajos practicos recuperatorio\TP1\Flores.Federico.2C.RTP1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\fedef\Desktop\GITHUB\Trabajos practicos recuperatorio\TP1\Flores.Federico.2C.RTP1\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\fedef\Desktop\GITHUB\Trabajos practicos recuperatorio\TP1\Flores.Federico.2C.RTP1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\fedef\Desktop\GITHUB\Trabajos practicos recuperatorio\TP1\Flores.Federico.2C.RTP1\Entidades\obj\Debug\Entidades.dll
+C:\Users\fedef\Desktop\GITHUB\Trabajos practicos recuperatorio\TP1\Flores.Federico.2C.RTP1\Entidades\obj\Debug\Entidades.pdb
