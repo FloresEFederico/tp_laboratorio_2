@@ -1,0 +1,12 @@
+C:\Users\fedef\Desktop\UTN Facultad\Programacion y Laboratorio ll\Trabajos Practicos\TP N°3 b\TP3.Flores.Federico.2C\bin\Debug\TP3.Flores.Federico.2C.exe.config
+C:\Users\fedef\Desktop\UTN Facultad\Programacion y Laboratorio ll\Trabajos Practicos\TP N°3 b\TP3.Flores.Federico.2C\bin\Debug\TP3.Flores.Federico.2C.exe
+C:\Users\fedef\Desktop\UTN Facultad\Programacion y Laboratorio ll\Trabajos Practicos\TP N°3 b\TP3.Flores.Federico.2C\bin\Debug\TP3.Flores.Federico.2C.pdb
+C:\Users\fedef\Desktop\UTN Facultad\Programacion y Laboratorio ll\Trabajos Practicos\TP N°3 b\TP3.Flores.Federico.2C\obj\Debug\TP3.Flores.Federico.2C.csprojAssemblyReference.cache
+C:\Users\fedef\Desktop\UTN Facultad\Programacion y Laboratorio ll\Trabajos Practicos\TP N°3 b\TP3.Flores.Federico.2C\obj\Debug\TP3.Flores.Federico.2C.csproj.CoreCompileInputs.cache
+C:\Users\fedef\Desktop\UTN Facultad\Programacion y Laboratorio ll\Trabajos Practicos\TP N°3 b\TP3.Flores.Federico.2C\obj\Debug\TP3.Flores.Federico.2C.exe
+C:\Users\fedef\Desktop\UTN Facultad\Programacion y Laboratorio ll\Trabajos Practicos\TP N°3 b\TP3.Flores.Federico.2C\obj\Debug\TP3.Flores.Federico.2C.pdb
+C:\Users\fedef\Desktop\UTN Facultad\Programacion y Laboratorio ll\Trabajos Practicos\TP N°3 b\TP3.Flores.Federico.2C\bin\Debug\Entidades.dll
+C:\Users\fedef\Desktop\UTN Facultad\Programacion y Laboratorio ll\Trabajos Practicos\TP N°3 b\TP3.Flores.Federico.2C\bin\Debug\Entidades.pdb
+C:\Users\fedef\Desktop\UTN Facultad\Programacion y Laboratorio ll\Trabajos Practicos\TP N°3 b\TP3.Flores.Federico.2C\obj\Debug\TP3.Flores.Federico.2C.csproj.CopyComplete
+C:\Users\fedef\Desktop\UTN Facultad\Programacion y Laboratorio ll\Trabajos Practicos\TP N°3 b\TP3.Flores.Federico.2C\bin\Debug\Excepciones.dll
+C:\Users\fedef\Desktop\UTN Facultad\Programacion y Laboratorio ll\Trabajos Practicos\TP N°3 b\TP3.Flores.Federico.2C\bin\Debug\Excepciones.pdb

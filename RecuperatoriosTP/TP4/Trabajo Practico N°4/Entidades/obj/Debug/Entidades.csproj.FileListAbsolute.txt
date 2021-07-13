@@ -1,0 +1,27 @@
+C:\Users\fedef\Desktop\UTN Facultad\Programacion y Laboratorio ll\Trabajos Practicos\TP N°3 b\Entidades\bin\Debug\Entidades.dll
+C:\Users\fedef\Desktop\UTN Facultad\Programacion y Laboratorio ll\Trabajos Practicos\TP N°3 b\Entidades\bin\Debug\Entidades.pdb
+C:\Users\fedef\Desktop\UTN Facultad\Programacion y Laboratorio ll\Trabajos Practicos\TP N°3 b\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\fedef\Desktop\UTN Facultad\Programacion y Laboratorio ll\Trabajos Practicos\TP N°3 b\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\fedef\Desktop\UTN Facultad\Programacion y Laboratorio ll\Trabajos Practicos\TP N°3 b\Entidades\obj\Debug\Entidades.dll
+C:\Users\fedef\Desktop\UTN Facultad\Programacion y Laboratorio ll\Trabajos Practicos\TP N°3 b\Entidades\obj\Debug\Entidades.pdb
+C:\Users\fedef\Desktop\UTN Facultad\Programacion y Laboratorio ll\Trabajos Practicos\TP N°3 b\Entidades\bin\Debug\Excepciones.dll
+C:\Users\fedef\Desktop\UTN Facultad\Programacion y Laboratorio ll\Trabajos Practicos\TP N°3 b\Entidades\bin\Debug\Excepciones.pdb
+C:\Users\fedef\Desktop\UTN Facultad\Programacion y Laboratorio ll\Trabajos Practicos\TP N°3 b\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\fedef\Source\Repos\FloresEFederico\tp_laboratorio_2\Trabajo Practico N°3\Entidades\bin\Debug\Entidades.dll
+C:\Users\fedef\Source\Repos\FloresEFederico\tp_laboratorio_2\Trabajo Practico N°3\Entidades\bin\Debug\Entidades.pdb
+C:\Users\fedef\Source\Repos\FloresEFederico\tp_laboratorio_2\Trabajo Practico N°3\Entidades\bin\Debug\Excepciones.dll
+C:\Users\fedef\Source\Repos\FloresEFederico\tp_laboratorio_2\Trabajo Practico N°3\Entidades\bin\Debug\Excepciones.pdb
+C:\Users\fedef\Source\Repos\FloresEFederico\tp_laboratorio_2\Trabajo Practico N°3\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\fedef\Source\Repos\FloresEFederico\tp_laboratorio_2\Trabajo Practico N°3\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\fedef\Source\Repos\FloresEFederico\tp_laboratorio_2\Trabajo Practico N°3\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\fedef\Source\Repos\FloresEFederico\tp_laboratorio_2\Trabajo Practico N°3\Entidades\obj\Debug\Entidades.dll
+C:\Users\fedef\Source\Repos\FloresEFederico\tp_laboratorio_2\Trabajo Practico N°3\Entidades\obj\Debug\Entidades.pdb
+C:\Users\fedef\source\repos\FloresEFederico\tp_laboratorio_2\Trabajo Practico N°4\Entidades\bin\Debug\Entidades.dll
+C:\Users\fedef\source\repos\FloresEFederico\tp_laboratorio_2\Trabajo Practico N°4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\fedef\source\repos\FloresEFederico\tp_laboratorio_2\Trabajo Practico N°4\Entidades\bin\Debug\Excepciones.dll
+C:\Users\fedef\source\repos\FloresEFederico\tp_laboratorio_2\Trabajo Practico N°4\Entidades\bin\Debug\Excepciones.pdb
+C:\Users\fedef\source\repos\FloresEFederico\tp_laboratorio_2\Trabajo Practico N°4\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\fedef\source\repos\FloresEFederico\tp_laboratorio_2\Trabajo Practico N°4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\fedef\source\repos\FloresEFederico\tp_laboratorio_2\Trabajo Practico N°4\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\fedef\source\repos\FloresEFederico\tp_laboratorio_2\Trabajo Practico N°4\Entidades\obj\Debug\Entidades.dll
+C:\Users\fedef\source\repos\FloresEFederico\tp_laboratorio_2\Trabajo Practico N°4\Entidades\obj\Debug\Entidades.pdb
